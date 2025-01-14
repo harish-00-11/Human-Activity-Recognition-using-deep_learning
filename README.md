@@ -46,7 +46,7 @@ realtime.py
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-time-human-activity-recognition.git
+   git clone https://github.com/harish-00-11/Human-Activity-Recognition-using-deep_learning.git
    cd real-time-human-activity-recognition
    ```
 2. Install required libraries:
