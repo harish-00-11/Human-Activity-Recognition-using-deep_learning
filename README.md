@@ -21,8 +21,9 @@ model/
 ├── yolov3.weights                      
 ├── coco.names                          
 └── Audio/                              
-images/                                 
-test/
+images/
+test/                                
+train/
 ├── class 1                      
 ├── class 2                           
 image.py                                
