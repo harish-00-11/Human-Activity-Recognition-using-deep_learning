@@ -4,8 +4,8 @@ import cv2
 import time
 class Parameters:
     def __init__(self):
-        self.CLASSES = open("model/action_recognition_kinetics.txt").read().strip().split("\n")
-        self.ACTION_RESNET = 'model/resnet-34_kinetics.onnx'
+        self.CLASSES = open("model/action_recognition.txt").read().strip().split("\n")
+        self.ACTION_RESNET = 'model/resnet-34.onnx'
         self.YOLO_CFG = "model/yolov3.cfg"
         self.YOLO_WEIGHTS = "model/yolov3.weights"
         self.YOLO_CLASSES = "model/coco.names"
