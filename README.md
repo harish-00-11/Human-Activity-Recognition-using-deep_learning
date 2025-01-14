@@ -100,13 +100,3 @@ python realtime.py
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contributions
-Contributions are welcome! Please fork this repository, make your changes, and create a pull request.
-```
-
-This will be the full GitHub `README.md` file with all the necessary information for your project.
